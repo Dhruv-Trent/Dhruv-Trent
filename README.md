@@ -1,55 +1,120 @@
-# Hi there, I'm Dhruv K Patel! 👋
+# Dhruv Kanubhai Patel
 
-🎓 **Student | Bachelor in Computer Science (Specializing in Software Engineering)**
-- Expected Graduation: **April 2026**
+## Full-Stack & Backend Developer | AI-Powered Developer Tools
 
----
+Software Engineering-focused Computer Science graduate with strong interests in backend systems, AI-powered applications, full-stack development, and developer productivity tooling.
 
-## 🚀 About Me
-
-I'm a passionate coder who loves turning ideas into reality. Whether it's building intuitive web apps or solving tricky algorithmic problems, I enjoy every challenge that helps me grow and create impact. Currently, I'm sharpening my skills in software engineering and always looking for exciting projects to work on!
+Building **DevLens** - an AI-powered repository intelligence platform that helps developers understand unfamiliar codebases using semantic search, vector embeddings, repository indexing, and scalable backend architecture.
 
 ---
 
-## 🛠️ Top Skills & Technologies
+# Tech Stack
 
-- **Languages:** Python, C#, HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React
-- **Specialties:** Data Structures & Algorithms, Machine Learning
+## Languages
 
----
-
-## 🌟 Favorite Projects
-
-- [LeetCode_Python](https://github.com/Dhruv-Trent/LeetCode_Python)  
-  _50+ LeetCode solutions in Python with clear explanations and efficient approaches._
-
-- [Portfolio](https://github.com/Dhruv-Trent/Portfolio)  
-  _My personal website and showcase of my journey, skills, and work._
-
-- [Budget_Manager](https://github.com/Dhruv-Trent/Budget_Manager) _(In Progress)_  
-  _A handy app to help you manage your finances simply and effectively. Stay tuned for updates!_
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
 
 ---
 
-## 🌐 Connect with Me
+## Frameworks & Libraries
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-kanubhai-patel-b83573271/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292F?logo=github&logoColor=white)](https://dhruv-trent.github.io/Portfolio/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/dkpatel1606/)
-
----
-
-## ⚡ Fun Facts & Hobbies
-
-- 👨‍🍳 I love cooking and experimenting with new recipes.
-- 🏸 Can play almost any sport, but volleyball and badminton are my favorites.
-- 📚 Enjoy reading self-development books—favorites include _The Hard Thing About Hard Things_, _Rich Dad Poor Dad_, and _Atomic Habits_.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+## Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
-_Thanks for visiting my profile! Let’s connect and build something awesome together._
+# Featured Projects
+
+## DevLens - AI-Powered Repository Intelligence Platform
+
+AI-powered repository analysis platform designed to help developers understand and navigate unfamiliar codebases using semantic search and intelligent repository indexing.
+
+### Key Features
+
+* JWT authentication & protected routes
+* ZIP repository upload pipeline
+* Background scan orchestration
+* Repository chunking system
+* Semantic retrieval foundations using pgvector
+* Interactive repository tree & file viewer
+* Dockerized multi-service architecture
+
+### Tech Stack
+
+FastAPI • React • Next.js • PostgreSQL • pgvector • Docker • OpenAI API
+
+### Repository
+
+https://github.com/Dhruv-Trent/devlens
+
+---
+
+## Physics Visualization Tool System (Trent Kinetix)
+
+Collaborated in a 6-member engineering team to build an interactive physics visualization platform for Trent University using Python, JavaScript, HTML5 Canvas, NumPy, and Matplotlib.
+
+---
+
+## LeetCode Problem-Solving Repository
+
+80+ algorithmic and data structure solutions covering:
+
+* Graphs
+* Dynamic Programming
+* Recursion
+* Searching & Sorting
+* Optimization Problems
+
+### Repository
+
+https://github.com/Dhruv-Trent/LeetCode_Python
+
+---
+
+# Currently Focused On
+
+* AI-powered developer tooling
+* Semantic search systems
+* Backend architecture
+* FastAPI & scalable APIs
+* PostgreSQL & vector databases
+* Dockerized development workflows
+* System design & engineering fundamentals
+
+---
+
+# Connect With Me
+
+## LinkedIn
+
+https://www.linkedin.com/in/dhruv-kanubhai-patel-b83573271/
+
+## Portfolio
+
+https://dhruv-trent.github.io/Portfolio/
+
+## GitHub
+
+https://github.com/Dhruv-Trent
+
+---
+
+Open to Software Engineering, Backend Development, Full-Stack Development, and AI Engineering opportunities.
+
+Thanks for visiting my profile 
